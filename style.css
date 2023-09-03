@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main_container{
+    color: white;
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+
+}
+img{
+ background-size: contain;
+  height: 500px;
+  padding: 20px 20px;
+}
+p,h1,h2{
+    padding-bottom: 20px;
+    padding-left: 20px;
+}
+input{
+    width: 50%;
+    font-size: 22px;
+    padding: 10px; 
+}
+button{
+    padding: 10px;
+    font-size: 22px;
+}
+label{
+    padding-left: 20px;
+    font-size: 22px;
+}
+.previous_search p{
+    font-size: 20px;
+    font-weight: 500;
+}
+.desc{
+    font-size: 22px;
+}
+ul{
+    margin-top: 10px;
+    padding-left: 30px;
+    font-size: 22px;
+}
